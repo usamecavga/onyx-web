@@ -1,0 +1,19 @@
+name: onyx-web-deploy-ci
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v2
+      - name: Start
+        run: make start
+      - name: Clean
+        run: make clean
