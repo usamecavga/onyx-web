@@ -38,8 +38,8 @@ const HeaderComponent = () => {
                         <Image
                             src={"/img/onyx-logo.png"}
                             alt="Logo"
-                            className="mx-auto w-[260px] md:w-auto mt-1 cursor-pointer"
-                            width={440}
+                            className="mx-auto w-[160px] md:w-auto mt-1 cursor-pointer"
+                            width={240}
                             height={120}
                         />
                     </Link>

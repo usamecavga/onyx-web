@@ -57,7 +57,7 @@ export default function Company() {
           </div>
         </div>
         <div className="md:mt-24 mt-12">
-          <h2 className="text-5xl font-title font-bold mb-8 w-full text-black text-right">
+          <h2 className="text-5xl font-title font-bold mb-8 w-full text-black md:text-right text-left">
             ILID & OEA Interiors
           </h2>
           <div className="grid md:grid-cols-2 grid-cols-1 gap-8">
@@ -85,7 +85,7 @@ export default function Company() {
           </div>
         </div>
       </section>
-      <section className="container grid grid-cols-2 px-8 md:py-16 py-4 mx-auto gap-8">
+      <section className="container grid md:grid-cols-2 px-8 md:py-16 py-4 mx-auto gap-8">
         <div>
           <h2 className="text-5xl font-title font-bold mb-8 w-full text-left text-black">
             Health, Safety and Environmental Policy
