@@ -26,14 +26,11 @@ export default function Company() {
 
       <section className="container mx-auto px-8 pb-16">
         <div className="md:mt-24 mt-12">
-          <h2 className="text-5xl font-title font-bold mb-8 w-full text-left text-black">
-            OEA Aluminium
-          </h2>
           <div className="grid md:grid-cols-2 grid-cols-1 gap-8">
             <div>
               <Image
-                src="/img/ole-aluminium.jpg"
-                alt="ole-aluminium"
+                src="/img/ude.jpg"
+                alt="ude"
                 className="col-span-1"
                 width={800}
                 height={800}
@@ -57,14 +54,11 @@ export default function Company() {
           </div>
         </div>
         <div className="md:mt-24 mt-12">
-          <h2 className="text-5xl font-title font-bold mb-8 w-full text-black md:text-right text-left">
-            ILID & OEA Interiors
-          </h2>
           <div className="grid md:grid-cols-2 grid-cols-1 gap-8">
             <div className="order-2">
               <Image
-                src="/img/oae-interiors.jpg"
-                alt="oae-interiors"
+                src="/img/ude-2.jpg"
+                alt="ude"
                 className="col-span-1"
                 width={800}
                 height={800}
@@ -72,14 +66,56 @@ export default function Company() {
             </div>
             <div className="col-span-1 order-1">
               <p className="text-sm leading-relaxed mb-4 text-black">
-                ILID & OEA Interiors is developed to cater to our client with
-                high quality interior design work and we have a highly qualified
-                team of Architects and Interior Designers who have worked with
-                international clients and consultants. ILID & OEA Interiors have
-                delivered high quality works for different clients who belong to
-                different sectors such as Hospitality, Luxury Villas etc. Our
-                major clients are Gulf Court Hotels, Hotel Taj and Private
-                Villas to name a few.
+                UDE is also the proud mother company of 123 Contracting, further
+                expanding our capabilities and service offerings within the
+                construction and development sector.
+              </p>
+              <p className="text-sm leading-relaxed mb-4 text-black">
+                At UDE, we are committed to excellence in construction, with a
+                strong focus on superior client service. By listening closely to
+                our clients’ needs and tailoring our expertise accordingly, we
+                demonstrate our ability to fully understand and implement the
+                scope of every project. We are equally dedicated to
+                strengthening our capabilities by attracting and retaining top
+                talent. Each project we undertake is led by a specialized team
+                whose expertise addresses the unique challenges of the work
+                involved. Teamwork is at the heart of UDE’s culture. Our Project
+                Managers and senior leadership display exceptional commitment
+                and personal involvement, ensuring the successful delivery of
+                all major projects. From the ground up, the knowledge and
+                dedication of our people drive sustained performance,
+                positioning UDE for continued success in the future.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section className="container mx-auto px-8 py-16">
+        <div className="md:mt-24 mt-12">
+          <h2 className="text-5xl font-title font-bold mb-8 w-full text-left text-black">
+            Abdulla Fahem Aal Abdulla
+          </h2>
+          <div className="grid md:grid-cols-3 grid-cols-1 gap-8">
+            <div>
+              <Image
+                src="/img/abdulla.jpg"
+                alt="Portrait of Abdulla Fahem Aal Abdulla"
+                className="col-span-1"
+                width={400}
+                height={500}
+              />
+            </div>
+            <div className="col-span-2">
+              <p className="text-sm leading-relaxed mb-4 text-black">
+                Abdulla, the visionary founder and CEO of FAY HOLDING,possesses
+                extensive experience in the real estate andconstruction sectors.
+                A graduate of the American University witha degree in Business
+                Studies, he commenced his career atUnited Developing Engineering
+                LLC, where he acquired profoundindustry knowledge. His
+                entrepreneurial spirit inspired him toestablish several key
+                ventures within the group, including 123Properties LLC and 123
+                Contracting LLC OPC, therebypositioning FAY HOLDING as a leader
+                across multiple domains.
               </p>
             </div>
           </div>
@@ -88,43 +124,32 @@ export default function Company() {
       <section className="container grid md:grid-cols-2 px-8 md:py-16 py-4 mx-auto gap-8">
         <div>
           <h2 className="text-5xl font-title font-bold mb-8 w-full text-left text-black">
-            Health, Safety and Environmental Policy
+            Vision
           </h2>
           <p className="text-sm leading-relaxed mb-4 text-black text-justify">
-            OGC gives high importance to establishing new and advanced programme
-            related to Health, Safety and Environment (HSE). We value our
-            employees greatly and our team’s exceptional skills are rare and
-            highly prized. To ensure the safety of our teammates, we have
-            adopted the HSE MS as a guideline and framework for the management
-            to monitor their activities. Additionally, our commitment to
-            occupational health and safety is demonstrated through our ISO
-            180001 certificate, while our adherence to environmental protection
-            principles, including pollution prevention and improved
-            environmental performance, is affirmed through our ISO 14001
-            certificate.
+            To be a leading force in the construction industry by building with
+            integrity, innovation, and excellence—shaping spaces that inspire
+            and stand the test of time.
+          </p>
+          <p className="text-sm leading-relaxed mb-4 text-black">
+            We envision a future where every project we deliver reflects our
+            commitme nt to quality, client satisfaction, and s ustainable
+            growth.
           </p>
         </div>
         <div>
           <h2 className="text-5xl font-title font-bold mb-8 w-full text-left text-black">
-            Quality Policy
+            Mission
           </h2>
           <p className="text-sm leading-relaxed mb-4 text-black text-justify">
-            Quality is of utmost importance to OGC, and it serves as the
-            cornerstone of all our activities. Our internal auditing, strategic
-            policies, processes, and human resource systems all contribute to
-            achieving the highest level of quality. We have developed a
-            comprehensive Quality Assurance Programme, which we initiate during
-            the estimation and tendering stage and carry out throughout the
-            entire life cycle of any project, from planning to closeout – with
-            no room for shortcomings.
+            To deliver high-quality construction solutions throughexceptional
+            craftsmanship, transparent project management,and client-focused
+            service.
           </p>
           <p className="text-sm leading-relaxed mb-4 text-black">
-            Our international certifications attest to the fact that all our
-            projects at OGC are meticulously designed, developed, constructed,
-            tested, and maintained in full compliance with the engineering
-            standards and technical specifications of ISO 9001:2000 and ISO
-            10006. We utilize only original and reliable information to ensure
-            that our future endeavors align perfectly with our objectives.
+            We are dedicated to transforming ideas into
+            reality—safely,efficiently, and with a passion for exceeding
+            expectations.
           </p>
         </div>
       </section>

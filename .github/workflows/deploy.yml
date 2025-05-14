@@ -1,4 +1,4 @@
-name: onyx-web-deploy-ci
+name: 123contracting-web-deploy-ci
 
 on:
   push:

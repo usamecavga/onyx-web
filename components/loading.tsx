@@ -1,6 +1,4 @@
 "use client";
-import { Footer } from "flowbite-react";
-import Link from "next/link";
 
 const Loading = ({ isLoading }: any) => {
     return (

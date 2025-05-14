@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['localhost', 'panel.onyxgc.ae', 'onyxgc.ae', 'oct.global', 'onyx-panel.oct.global'],
+        domains: ['localhost', 'panel.123contracting.ae', '123contracting.ae', 'oct.global', '123-panel.oct.global'],
     },
 };
 

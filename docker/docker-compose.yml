@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  onyx-web:
+  123contracting-web:
     build:
       context: ../
       dockerfile: docker/Dockerfile

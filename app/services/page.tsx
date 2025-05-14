@@ -17,61 +17,36 @@ export default function Company() {
           sub: "",
         }}
       />
-      <section className="container mx-auto md:py-16 py-8 px-4 mt-16">
-        <blockquote className="md:text-2xl text-xl text-center italic mb-16 font-title uppercase text-black">
-          At Onyx General Contracting, we pride ourselves on being a premier
-          contracting company in Dubai and the UAE, offering a wide range of
-          construction services tailored to meet the diverse needs of our
-          clients. Our expertise spans across various sectors, including
-          residential, commercial, and industrial construction, ensuring that we
-          have the capabilities to handle projects of any scale and complexity.
-          As a reputed contracting company in the UAE, our commitment to
-          quality, innovation, and customer satisfaction sets us apart in the
-          competitive construction industry.
-        </blockquote>
-        <hr />
-      </section>
       <section className="container mx-auto md:py-16 py-8 px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-16">
           <div>
             <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
-              Premium Villas Contracting
+              General Contracting
             </h3>
             <p className="text-justify text-sm text-black">
-              At Onyx General Contracting, we excel in transforming your vision
-              of a luxurious living space into reality. We specialize in
-              constructing premium villas that epitomize elegance, comfort, and
-              innovation. Our team of experienced professionals is dedicated to
-              delivering top-tier construction services that meet the highest
-              standards of quality and craftsmanship.
+              We handle every aspect of your project from start to finish with
+              precision andprofessionalism.Trust our experienced team to turn
+              your vision into reality, on time and on budget.
             </p>
           </div>
           <div>
             <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
-              Palaces Contracting
+              BuildsResidential & Commercial Construction
             </h3>
             <p className="text-justify text-sm text-black">
-              Onyx General Contracting is synonymous with grandeur and
-              sophistication in palace construction. As a premier contracting
-              company in Dubai and the UAE, we are dedicated to building
-              palatial residences that are a testament to opulence and
-              magnificence. Our portfolio of completed projects showcases our
-              ability to deliver exquisite palaces that surpass our clients
-              expectations in every way.
+              From cozy homes to large-scale commercial spaces, we build with
+              quality and care.Your ideal space is just a blueprint away—crafted
+              by experts in both residential andcommercial construction.
             </p>
           </div>
           <div>
             <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
-              Warehouses Contracting
+              Renovations & Remodeling
             </h3>
             <p className="text-justify text-sm text-black">
-              Onyx General Contracting is your trusted partner for building
-              state-of-the-art warehouses in Dubai and the UAE. We specialize in
-              constructing high-quality warehouses that meet the diverse needs
-              of our clients. Whether you require a storage facility,
-              distribution center, or manufacturing space, we have the expertise
-              and resources to deliver a solution that exceeds your
-              expectations.
+              Transform your space with stylish, functional upgrades tailored to
+              your lifestyle.Whether modernizing or restoring, we bring fresh
+              life to every room.
             </p>
           </div>
         </div>
@@ -80,48 +55,62 @@ export default function Company() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-16">
           <div>
             <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
-              Factories Contracting
+              Site Development & Excavation
             </h3>
             <p className="text-justify text-sm text-black">
-              Onyx General Contracting is a leader in the construction of
-              high-performance factories in Dubai and the UAE. As a prominent
-              contracting company in Dubai, we specialize in building advanced
-              manufacturing facilities that are tailored to the specific
-              requirements of our clients. Our expertise in industrial
-              construction ensures that your factory is built to the highest
-              standards of quality, efficiency, and safety.
+              We prepare the ground for success with expert excavation and site
+              services.From grading to groundwork, we lay the foundation for
+              your future project.
             </p>
           </div>
           <div>
             <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
-              Educational Institutions Contracting
+              Concrete & Masonry
             </h3>
             <p className="text-justify text-sm text-black">
-              Onyx General Contracting is a trusted name in the construction of
-              educational institutions in Dubai and the UAE. We specialize in
-              building state-of-the-art schools, colleges, and universities that
-              provide an optimal learning environment for students. Our
-              commitment to quality and excellence ensures that each educational
-              institution we build meets the highest standards of safety,
-              functionality, and aesthetics.
+              Durable, detailed, and dependable—our concrete and masonry work
+              stands the testof time.Strong structures start with strong
+              craftsmanship in every block and pour.
             </p>
           </div>
           <div>
             <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
-              Hospitality Contracting
+              Roofing & Siding
             </h3>
             <p className="text-justify text-sm text-black">
-              Onyx General Contracting is a premier contracting company in the
-              UAE, renowned for our expertise in hospitality contracting. We
-              specialize in constructing world-class hotels, resorts, and
-              leisure facilities that set new benchmarks for luxury and comfort.
-              Our extensive experience in the hospitality sector enables us to
-              deliver projects that not only meet but exceed the expectations of
-              our discerning clients.
+              Protect and elevate your property with high-quality roofing and
+              siding solutions.We combine style and strength to keep your home
+              or business safe and stunning.
             </p>
           </div>
         </div>
       </section>
+      <section className="container mx-auto md:py-16 py-8 px-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
+          <div>
+            <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
+              Project Management
+            </h3>
+            <p className="text-justify text-sm text-black">
+              Organized, efficient, and transparent—our project management keeps
+              everything ontrack.We coordinate every detail so you can focus on
+              the big picture.
+            </p>
+          </div>
+          <div>
+            <h3 className="text-2xl text-center font-bold font-title mb-8 uppercase text-black">
+              Custom Builds
+            </h3>
+            <p className="text-justify text-sm text-black">
+              Dream it. Design it. We build it—just the way you imagined. Unique
+              spaces built from scratch to match your personal vision and needs.
+            </p>
+          </div>
+        </div>
+      </section>
+      <h2 className="text-5xl text-center font-bold font-title mt-12 uppercase text-black">
+        Core Values
+      </h2>
       <section className="container mx-auto md:py-16 py-8 px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 items-center">
           <Image
@@ -133,48 +122,35 @@ export default function Company() {
           />
           <div className="md:p-16 pt-8 pb-16 px-2 order-2 md:order-1">
             <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black">
-              Dedicated Project Teams
+              Integrity
             </h3>
             <p className="text-justify text-sm font-light text-black">
-              To guarantee efficient operation and client satisfaction, we
-              designate specialized project managers and teams. The
-              collaborative working style of our senior management team with
-              those responsible for governance places a strong focus on trust,
-              dedication, and teamwork with the governing body. Collectively,
-              with each member’s significant contribution, OGC upholds a
-              practical drive for action and a passion for genuine excellence,
-              making itself renowned as one of the top building contractors in
-              Dubai. Our experts work in tandem with engineers, architects, and
-              subcontractors to fulfill design specifications and respect
-              deadlines and budgets. Regular project updates keep clients
-              informed on progress.
+              We uphold honesty and strong moral principles inevery aspect of
+              our work.
             </p>
+            <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black mt-10">
+              Quality
+            </h3>
             <p className="text-justify text-sm font-light text-black">
-              OGC reviews its processes for continuous improvement at every
-              stage putting the knowledge, experience, and expertise of our
-              workforce to good use along with a technically advanced support
-              system. Our undertakings never fail to impress our clients as we
-              give them what they are looking for and even more starting from
-              the conception to the completion of any project.
+              We are committed to excellence in craftsmanship,materials, and
+              execution.
             </p>
           </div>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 items-center">
           <div className="md:p-16 pt-8 pb-16 px-2 order-2 md:order-2">
             <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black">
-              Optimizing Project Management: Strategies for Efficiency
+              Innovation
             </h3>
             <p className="text-justify text-sm font-light text-black">
-              Efficient project management is crucial for any contracting
-              company to complete projects successfully and on schedule. As one
-              of the top contracting companies in Dubai, we have built a strong
-              project management team to oversee its project workflow. The
-              project managers work closely with clients right from the planning
-              stage to ensure all specifications and requirements are clearly
-              documented. Experienced managers use tools like GANTT charts to
-              create realistic timelines and oversee project scheduling. This
-              helps the building contractors in Dubai to allocate resources and
-              track progress efficiently.
+              We embrace new ideas and technologies to buildsmarter and better.
+            </p>
+            <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black mt-10">
+              Customer Satisfaction
+            </h3>
+            <p className="text-justify text-sm font-light text-black">
+              We put our clients first, always listeningand adapting to their
+              needs.
             </p>
           </div>
           <Image
@@ -195,23 +171,24 @@ export default function Company() {
           />
           <div className="md:p-16 pt-8 pb-16 px-2 order-2 md:order-1">
             <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black">
-              Your Project, Our Expertise
+              Safety
             </h3>
             <p className="text-justify text-sm font-light text-black">
-              Our project managers are responsible for ensuring smooth
-              coordination between sub-contractors, engineers, suppliers, and
-              other project stakeholders. They conduct regular site inspections
-              using BIM models for quality checks and adherence to safety norms.
-              Meeting agendas are drawn and minutes are documented to keep all
-              parties on the same page.
+              We prioritize safe practices for our team, clients, andcommunity.
             </p>
+            <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black mt-10">
+              Teamwork
+            </h3>
             <p className="text-justify text-sm font-light text-black">
-              Through monthly project reviews, we estimate cost overruns early
-              to take mitigation steps. Any issues over material supply or
-              workforce are promptly addressed. Digital tools allow managers and
-              clients to track project KPIs remotely. OGC’s experienced project
-              managers and civil contractors in Dubai help mitigate risks to
-              ensure the smooth execution of projects.
+              We believe in the power of collaboration andrespect among all
+              stakeholders.
+            </p>
+            <h3 className="text-4xl font-bold font-title mb-4 uppercase text-black mt-10">
+              Sustainability
+            </h3>
+            <p className="text-justify text-sm font-light text-black">
+              We strive to build responsibly, with minimalimpact on the
+              environment.
             </p>
           </div>
         </div>

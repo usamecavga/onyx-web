@@ -36,11 +36,11 @@ const HeaderComponent = () => {
                 <div className="flex-grow text-center md:ml-12 ml-8">
                     <Link href="/">
                         <Image
-                            src={"/img/onyx-logo.png"}
+                            src={"/img/123contracting-logo.png"}
                             alt="Logo"
-                            className="mx-auto w-[100px] md:w-auto mt-1 cursor-pointer"
-                            width={180}
-                            height={80}
+                            className="mx-auto md:w-auto mt-1 cursor-pointer"
+                            width={240}
+                            height={120}
                         />
                     </Link>
                 </div>
