@@ -7,8 +7,8 @@ import FooterComponent from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Onyx General Contracting LLC",
-  description: "Onyx, top contracting company in Dubai providing comprehensive construction services for warehouses, villas, factories, mosques, palaces, schools, and industrial projects.",
+  title: "123 Contracting LLC",
+  description: "123 Contracting, top contracting company, providing comprehensive construction services for warehouses, villas, factories, mosques, palaces, schools, and industrial projects.",
 };
 
 export default function RootLayout({
